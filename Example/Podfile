@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KKRefresh_Example' do
+  pod 'KKRefresh', :path => '../'
+
+  target 'KKRefresh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

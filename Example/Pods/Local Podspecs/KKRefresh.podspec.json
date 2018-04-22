@@ -1,0 +1,31 @@
+{
+  "name": "KKRefresh",
+  "version": "0.1.0",
+  "summary": "KKRefresh is post-packaging to the MJRefresh",
+  "description": "use for self",
+  "homepage": "https://github.com/kekeYezi/KKRefresh.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Keke": "kekeyezi1992@163.com"
+  },
+  "source": {
+    "git": "https://github.com/kekeYezi/KKRefresh.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KKRefresh/Classes/**/*",
+  "resources": "KKRefresh/Assets/KKRefresh.bundle",
+  "dependencies": {
+    "MJRefresh": [
+      "~>3.1.15"
+    ],
+    "DZNEmptyDataSet": [
+      "~>1.8.1"
+    ]
+  }
+}

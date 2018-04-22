@@ -1,0 +1,22 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - KKRefresh (0.1.0):
+    - DZNEmptyDataSet (~> 1.8.1)
+    - MJRefresh (~> 3.1.15)
+  - MJRefresh (3.1.15.3)
+
+DEPENDENCIES:
+  - KKRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  KKRefresh:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  KKRefresh: f85a3d14b0ef96d90749eeef230c34a7c9d3b1c2
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+
+PODFILE CHECKSUM: 0ef886b3755c9c434d4e38e1a320f01b2f40e73f
+
+COCOAPODS: 1.4.0
